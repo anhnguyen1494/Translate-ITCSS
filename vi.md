@@ -2,9 +2,9 @@
 
 Làm thế nào để phát triển và bảo trì CSS của mình? Nó thực sự quan trọng với từng người làm Front-end. ITCSS là câu trả lời.
 
-Năm trước, khi chúng tôi bắt đầu lên kế hoạch thiết kế [HEROized][1] và Xfive.co một website mới, Tôi đã tìm kiếm một kiến trúc CSS mà nó cho phép dễ dàng phát triển trang web và hơn nữa là bảo trì.
+Năm trước, khi chúng tôi bắt đầu lên kế hoạch thiết kế [HEROized](1) và Xfive.co một website mới, Tôi đã tìm kiếm một kiến trúc CSS mà nó cho phép dễ dàng phát triển trang web và hơn nữa là bảo trì.
 
-[CSS Modules](http://www.sitepoint.com/understanding-css-modules-methodology/) còn khá trẻ và mới lạ tại thời điểm đó và tôi luôn luôn xem xét [Atomic Design][3] tương tự vs người làm ra nó. Rồi tôi bắt gặp [Harry Roberts's][4] ITCSS vào tháng 6 năm 2015 trên [net magazine][5] và ngay lập tức đã yêu thích cách tiếp cận đơn giản như thế này.
+[CSS Modules](http://www.sitepoint.com/understanding-css-modules-methodology/) còn khá trẻ và mới lạ tại thời điểm đó và tôi luôn luôn xem xét [Atomic Design](3) tương tự vs người làm ra nó. Rồi tôi bắt gặp [Harry Roberts's](4) ITCSS vào tháng 6 năm 2015 trên [net magazine](5) và ngay lập tức đã yêu thích cách tiếp cận đơn giản như thế này.
 
 ## ITCSS là gì?
 
@@ -30,21 +30,21 @@ Hình tam giác cũng cho thấy các kiểu được biểu diễn bởi các s
 
 ![](https://www.xfivecdn.com/xfive/wp-content/uploads/2016/02/10154630/itcss-key-metrics.svg)
 
-![ITCSS Key Metrics][7]
+![ITCSS Key Metrics](7)
 
-Tổ chức CSS như vậy sẽ giúp bạn tránh được Specificity Wars và được viết bởi [a healthy specificity graph][8].
+Tổ chức CSS như vậy sẽ giúp bạn tránh được Specificity Wars và được viết bởi [a healthy specificity graph](8).
 
 ## Tài liệu
 
 _Cập nhật 10/27/2016: Net magazine vừa tái xuất bản bài báo gốc từ phiên bản in (xem bên dưới)._
 
-Thông thường, vào thời điểm này, tôi sẽ giới thiệu bạn đến [ITCSS webpage][http://itcss.io/] để nghiên cứu thêm. Tuy nhiên, không có gì giống như tài liệu open source đã tồn tại.
+Thông thường, vào thời điểm này, tôi sẽ giới thiệu bạn đến [ITCSS webpage](http://itcss.io/) để nghiên cứu thêm. Tuy nhiên, không có gì giống như tài liệu open source đã tồn tại.
 
 ITCSS vẫn dành riêng một phần và nếu bạn muốn tận dụng nó, bạn nên nghiên cứu bản giới thiệu ban đầu trong net magazine. Tôi không ở đây để đánh giá ý tưởng của tác giả (Tôi rất biết ơn anh ấy vì anh ấy đã chia sẻ kiến ​​thức ),Tôi nghĩ rằng điều này cản ITCSS mở rộng hơn (có thể là ý tưởng, sau tất cả).
 
 > Tính độc quyền một phần của ITCSS ngăn cản việc áp dụng rộng rãi hơn.
 
-Điều này không ngăn cản bạn bắt đầu sử dụng nó trong dự án của bạn, tuy nhiên, nếu bạn thực sự quan tâm đến nó. [Get that particular issue][https://www.myfavouritemagazines.co.uk/design/net-magazine-back-issues/] của net magazine để học ITCSS nguyên tắc cơ bản, và sau đó nghiên cứu tài nguyên trực tuyến hiện có và ví dụ để giúp bạn với việc áp dụng nó trong các dự án thực tế.
+Điều này không ngăn cản bạn bắt đầu sử dụng nó trong dự án của bạn, tuy nhiên, nếu bạn thực sự quan tâm đến nó. [Get that particular issue](https://www.myfavouritemagazines.co.uk/design/net-magazine-back-issues/) của net magazine để học ITCSS nguyên tắc cơ bản, và sau đó nghiên cứu tài nguyên trực tuyến hiện có và ví dụ để giúp bạn với việc áp dụng nó trong các dự án thực tế.
 
 ## Tài nguyên
 
