@@ -14,7 +14,7 @@ ITCSS có thể được sử dụng với các tiền xử lý hoặc không c�
 
 Một trong những nguyên tắc chính của ITCSS là nó tách css CSS codebase thành các phần riêng (gọi là _layers_), có dạng hình tam giác ngược:
 
-![ITCSS Layers][https://www.xfivecdn.com/xfive/wp-content/uploads/2016/02/01083650/itcss-layers2.svg]
+![ITCSS Layers](https://www.xfivecdn.com/xfive/wp-content/uploads/2016/02/01083650/itcss-layers2.svg)
 
 Các layers này như sau:
 
